@@ -76,8 +76,7 @@ Your feedback is very important for this project. If you have any doubts or sugg
 
 ## Contribute
 
-This is an open source project. Feel free to [fork](https://help.github.com/articles/fork-a-repo/), improve it, and then create a [pull request](https://help.github.com/articles/about-pull-requests/). I'll be happy to review and have it merged when it gets in a good state.
+This is an open source project. Feel free to [fork](https://help.github.com/articles/fork-a-repo/), improve it, and then create a [pull request](https://help.github.com/articles/about-pull-requests/).
 
 ___
 
-Made with 💚 by [Walmyr Filho](http://walmyr-filho.com)
