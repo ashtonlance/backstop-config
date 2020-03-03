@@ -12,15 +12,13 @@ A sample project with a simple implementation of [BackstopJS](https://github.com
 
 ## Installation
 
-[Clone](https://help.github.com/articles/cloning-a-repository/) the project to your computer. Run `git clone https://github.com/wlsf82/backstop-config.git`.
+[Clone](https://help.github.com/articles/cloning-a-repository/) the project to your computer. Run `git clone https://github.com/ashtonlance/backstop-config.git`.
 
 Inside the directory of the cloned project, run `npm i` to install the project dependencies.
 
 ## Tests' setup
 
 There is only one file you will have to change to get the project configured to run screenshot comparison tests for your website, which is [`test/basicConfig.js`](./test/basicConfig.js). Update this file by following the instructions in its comments.
-
-> If you use Windows operating system, take a look at the [`NPM_SCRIPT_UPDATE_FOR_WINDOWS.md`](./NPM_SCRIPT_UPDATE_FOR_WINDOWS.md) file.
 
 Done. You are ready to go!
 
