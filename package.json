@@ -9,13 +9,13 @@
     "test": "npm run backstop:test",
     "test:docker": "npm run clean:bitmaps_test && backstop test --config=test/mainConfig.js --docker"
   },
-  "author": "Walmyr Lima e Silva Filho <wlsf82@gmail.com> (http://walmyr-filho.com)",
+  "author": "Ashton Lance (ashtonlance.com)",
   "license": "MIT",
   "dependencies": {
     "backstopjs": "^3.8.5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wlsf82/backstop-config"
+    "url": "https://github.com/ashtonlance/backstop-config"
   }
 }
